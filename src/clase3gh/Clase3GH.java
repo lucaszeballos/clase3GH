@@ -19,7 +19,7 @@ public class Clase3GH {
         
         
         
-        
+        System.out.println("");
         
         System.out.println("Hola soy Ariel");
         System.out.println("Hola mundo");
