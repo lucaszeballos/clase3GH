@@ -24,12 +24,8 @@ public class Clase3GH {
         System.out.println("Hola soy Ariel");
         System.out.println("Hola mundo");
                
-<<<<<<< HEAD
-        System.out.println("por aca paso ariel!");
         System.out.println("por aca paso ariel!12");
-=======
         System.out.println("por aca paso ariel!123");
->>>>>>> 1dad150088578ffd74dbf9d21beb2cbe37dba817
     }
     
     
