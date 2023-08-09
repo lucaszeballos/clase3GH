@@ -16,19 +16,15 @@ public class Clase3GH {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        
-        
-        
-        
-        
+
         System.out.println("Hola soy Ariel");
         System.out.println("Hola mundo");
-               
-
 
         System.out.println("por aca paso ariel!12");
 
+        System.out.println("por aca paso ariel!12");
+        System.out.println("por aca paso ariel!123");
+
     }
-    
-    
+
 }
