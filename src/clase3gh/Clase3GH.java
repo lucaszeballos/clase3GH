@@ -24,6 +24,7 @@ public class Clase3GH {
         System.out.println("Hola soy Ariel");
         System.out.println("Hola mundo");
                
+        System.out.println("por aca paso Rodri!");
         System.out.println("por aca paso ariel!");
     }
     
